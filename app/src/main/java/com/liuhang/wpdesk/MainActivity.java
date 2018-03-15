@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("tips", "开始学习自定义view吧小伙子");
+        Log.d("tips", "我熟练的一逼");
     }
 }
