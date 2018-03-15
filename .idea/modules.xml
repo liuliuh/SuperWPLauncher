@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WPDesk.iml" filepath="$PROJECT_DIR$/WPDesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperWPDesk.iml" filepath="$PROJECT_DIR$/SuperWPDesk.iml" />
+      <module fileurl="file://D:\development\code\github\WPLuncherWithLiuHang\SuperWPDesk\WPDesk.iml" filepath="D:\development\code\github\WPLuncherWithLiuHang\SuperWPDesk\WPDesk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\development\code\github\WPLuncherWithLiuHang\SuperWPDesk\app\app.iml" filepath="D:\development\code\github\WPLuncherWithLiuHang\SuperWPDesk\app\app.iml" />
     </modules>
   </component>
 </project>
